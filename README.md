@@ -1,4 +1,4 @@
-# sales_letter_template
+# Sales Letter Template
 
 ## Purpose
 Basic Sales Letter Template
